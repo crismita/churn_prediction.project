@@ -1,9 +1,7 @@
 # churn_prediction.project
 Customer churn prediction focuses on identifying customers who are likely to stop using company's services and it is done with the help of machine learning.
 
-📉 Customer Churn Prediction
-
-🔍 Project Overview
+## Project Overview
 
 This project predicts whether a customer is likely to churn based on key customer attributes. The goal is to help businesses identify at-risk customers early and take proactive steps to improve customer retention.
 
@@ -103,7 +101,7 @@ streamlit run app.py
 
 ---
 
-✅ Output
+## Output
 
 The application predicts whether a customer is likely to Churn or Not Churn, helping businesses make data-driven retention decisions.
 
